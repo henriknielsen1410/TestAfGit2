@@ -1,3 +1,4 @@
 V1 2021 v1
 ny linie i TESTFIL
 ny linie til development
+ny linie fra summering
