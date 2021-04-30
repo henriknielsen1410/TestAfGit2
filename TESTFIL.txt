@@ -3,3 +3,5 @@ ny linie i TESTFIL
 ny linie til development
 ny linie fra summering
 ny linie2 fra summering
+ny linie3 fra summeringe
+ny linie4 fra summering
